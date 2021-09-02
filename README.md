@@ -18,14 +18,7 @@ Since Mei 2020, I learn Data a lot from dari <a href="https://dqlab.id/">DQLab</
 <details><summary>Python<a href='README/6.png'><img src='Figure/Python-logo.png' align="right" height="40" /></a></summary>
    <details><summary>Fundamental Modules</summary>
       + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 1. Data Wrangling Python
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 2. Python for Data Professional Beginner - Part 1
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 3. Python for Data Professional Beginner - Part 2
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 4. Python for Data Professional Beginner - Part 3
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 5. Exploratory Data Analysis with Python for Beginner
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 6. Data Visualization with Python Matplotlib for Beginner - Part 1
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 7. Data Visualization with Python Matplotlib for Beginner - Part 2
-      + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 8. Data Quality with Python for Beginner
-      
+
 
    </details>
    
