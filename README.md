@@ -5,6 +5,6 @@ Since Mei 2020, I learn Data a lot from dari <a href="https://dqlab.id/">DQLab</
 
 ## <details><summary>Materi R <a href='README/6.png'><img src='Figure/R-logo.png' align="right" height="40" /></a></summary>
       ### Fundamentals
-   <\details>
+   </details>
   
 
