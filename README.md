@@ -4,9 +4,8 @@ Since Mei 2020, I learn Data a lot from dari <a href="https://dqlab.id/">DQLab</
 <!-- ![R](Figure/R-logo.png) -->
 
 ## <details><summary>Materi R <a href='README/6.png'><img src='Figure/R-logo.png' align="right" height="40" /></a></summary>
-     <details><summary>Daftar Kelas</summary>
 
-### Kelas Persiapan
+### Fundamental Modules
 
 <details><summary>Daftar Modul</summary>
 
