@@ -17,9 +17,10 @@ Since Mei 2020, I learn Data a lot from dari <a href="https://dqlab.id/">DQLab</
 
 <details><summary>Python<a href='README/6.png'><img src='Figure/Python-logo.png' align="right" height="40" /></a></summary>
    <details><summary>Fundamental Modules</summary>
+      
 + [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] 1. Data Wrangling Python
 
-+ [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)]  [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
++ [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
 
 
    </details>
