@@ -49,6 +49,7 @@ Since Mei 2020, I learn Data a lot from dari <a href="https://dqlab.id/">DQLab</
    </details>
    
    <details><summary>Application in Industry</summary>
+
 1. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] Basic Feature Discovering for Machine Learning
 
 2. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] Data Science in Telco: Data Cleansing
