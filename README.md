@@ -18,9 +18,9 @@ Since Mei 2020, I learn Data a lot from dari <a href="https://dqlab.id/">DQLab</
 <details><summary>Python<a href='README/6.png'><img src='Figure/Python-logo.png' align="right" height="40" /></a></summary>
    <details><summary>Fundamental Modules</summary>
       
-1. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] Data Wrangling Python
+   1. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/1.%20Data%20Wrangling%20Python)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1TPTMHW)] Data Wrangling Python
 
-2. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/2.%20Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTUISO)] Exploratory Data Analysis with Python for Beginner
+   2. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/2.%20Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTUISO)] Exploratory Data Analysis with Python for Beginner
       
 3. [[📚](https://github.com/reynoldms/DQLab-Modules-and-Projects/tree/main/Modules/Python/Fundamentals/3.%20Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🎓](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1KNFUKJ)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
